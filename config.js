@@ -19,4 +19,5 @@ HEART_REACT: process.env.HEART_REACT || "true",
 OWNER_REACT: process.env.OWNER_REACT || "true",
 ANTI_LINK: process.env.ANTI_LINK || "false",
 ANTI_BAD: process.env.ANTI_BAD || "true",
+ANTI_DELETE: process.env.ANTI_DELETE || "true",
 };
